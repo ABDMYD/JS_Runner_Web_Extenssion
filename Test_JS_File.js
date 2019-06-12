@@ -11,5 +11,5 @@ H1.style.fontFamily = "Arial";
 H1.style.position = "absolute";
 H1.style.left = "50%";
 H1.style.top = "50%";
-H1.style.transform = "translate(-50%,-50%)"{;
+H1.style.transform = "translate(-50%,-50%)";
 body.style.background = "#333";
